@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ansar 👋
 
-<!--
-**Bashshesh/Bashshesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Engineer** · Kiel, Germany
 
-Here are some ideas to get you started:
+Software Engineering graduate from AITU (Astana, Kazakhstan).  
+I build production web applications — from REST APIs and backend services to responsive frontends.  
+Currently open to **Werkstudent** roles in Kiel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 Tech Stack
+
+`React` `Next.js` `Node.js` `TypeScript` `Python` `PostgreSQL` `REST API` `Git` `Docker`
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ABCenter.kz**](https://abcenter.kz) | Production automotive marketplace in Kazakhstan — car listings, dealership dashboards, CRM backend | React, Node.js, PostgreSQL |
+| [**Real Estate Platform**](https://github.com/Bashshesh) | Full-stack property listing app with map integration and search filters | React, Node.js, PostgreSQL |
+| [**Mortgage Calculator**](https://github.com/Bashshesh) | Interactive calculator with amortisation schedule and payment charts | React, TypeScript |
+| [**Uni Assist Agent**](https://github.com/Bashshesh) | AI-powered assistant for university application navigation (LLM-based) | Python, LangChain, OpenAI |
+
+---
+
+## 📫 Contact
+
+- 📧 your@email.com
+- 🌐 [ABCenter.kz](https://abcenter.kz)
